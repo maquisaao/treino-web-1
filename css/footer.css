@@ -1,0 +1,15 @@
+.rodape {
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+.itens {
+    display: flex;
+    align-items: flex-end;
+    padding: 10px;
+}
+
+.itens img {
+    filter: brightness(0.5);
+}

@@ -1,0 +1,103 @@
+.conteudo2 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.conteudo2 h1 {
+    color: #286aa3;
+}
+
+.paragrafo {
+    padding: 10px;
+    text-align: center;
+}
+
+
+.quadros {
+    display: flex;
+    flex-direction: column;
+}
+
+.loguinho {
+    display: flex;
+    height: 50px;
+    
+}
+
+.linha {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.lightblue {
+    background-color: rgb(16, 40, 177);
+    width: 700px;
+    color: aliceblue;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    margin-right: 5px;
+}
+
+
+.darkblue {
+    background-color: rgb(17, 28, 87);
+    width: 700px;
+    color: aliceblue;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    margin-left: 5px;
+}
+
+.green {
+    background-color: rgb(8, 121, 32);
+    width: 700px;
+    color: aliceblue;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    margin-right: 5px;
+}
+
+.orange {
+    background-color: rgb(219, 69, 42);
+    width: 700px;
+    color: aliceblue;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    margin-left: 5px;
+}
+.purple {
+    background-color: rgb(112, 7, 72);
+    width: 700px;
+    color: aliceblue;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    margin-right: 5px;
+}
+
+.ciano {
+    background-color: rgb(22, 200, 206);
+    width: 700px;
+    color: aliceblue;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    margin-left: 5px;
+}
+.texto {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    margin-left: 5px;
+}
+
+.texto h2,p {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+

@@ -1,0 +1,119 @@
+.hero3 h1 {
+    color: #286aa3;
+    text-align: center;
+    margin: 30px;
+}
+
+.titulos {
+    display: flex;
+    padding-bottom: 20px;
+}
+
+.titulos a {
+    margin-right: 292px;
+}
+
+.titulos #verde {
+    color: green;
+}
+
+.titulos #azul {
+    color: blue;
+
+}
+
+.titulos #laranja {
+    color: orange;
+
+}
+
+.hero3 hr {
+    margin: 0;
+}
+
+.blocos {
+    display: flex;
+}
+
+.blocos button {
+    align-self: flex-start;
+    margin-top: 10px;
+    width: 116px;
+    height: 33px;
+    background-color: white;
+}
+
+#botaoverde {
+    color: green;
+    border-color: green;
+    border-right: none;
+    border-bottom: none;
+
+}
+
+#botaoazul {
+    color: blue;
+    border-color: blue;
+    border-top: none;
+    border-right: none;
+}
+
+#botaolaranja {
+    color: orange;
+    border-color: orange;
+    border-right: none;
+    border-bottom: none;
+
+}
+
+.blocoverde {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+}
+
+.blocoazul {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+
+}
+
+.blocolaranja {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+
+}
+
+#mao {
+    background-color: green;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    padding: 25px;
+}
+
+#escudo {
+    background-color: blue;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    padding: 25px;
+}
+
+#computador {
+    background-color: orange;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    padding: 25px;
+}
+
+.titulos a {
+    margin-right: 133px;
+}
+
