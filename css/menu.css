@@ -4,9 +4,9 @@ body {
 
 .cabecalho {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     background-color: #448ac6;
-    padding: 20px;
+    padding: 5px;
 }
 
 .cabecalho nav ul {
@@ -23,7 +23,11 @@ body {
     padding: 10px;
     color: rgb(255, 255, 255);
     justify-content: center;
-    
 }
 
+@media screen and (max-width: 768px) {
+    #sub {
+        color: #448ac6; /*substituir por hamburger*/
+    }
+}
 
