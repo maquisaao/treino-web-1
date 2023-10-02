@@ -117,3 +117,8 @@
     margin-right: 133px;
 }
 
+@media screen and (max-width: 768px) {
+    .titulos {
+        font-size: 15px;
+        justify-content: space-evenly;
+}}
